@@ -1,6 +1,6 @@
 # **MattWhew Validator**
 
-## [Twitter](https://x.com/MattWhewer)🛸[Keybase](https://keybase.io/MattWhew)🛸[Discord](https://discord.com/users/961405621364752455)🛸[Github](https://github.com/MattWhew)🛸[Medium](https://medium.com/@MattWhew)
+## [Notion](https://mattwhew.notion.site/MattWhew-Validator-e043391911e44983a8693c15cee2c133)🛸[Twitter](https://x.com/MattWhewer)🛸[Keybase](https://keybase.io/MattWhew)🛸[Discord](https://discord.com/users/961405621364752455)🛸[Medium](https://medium.com/@MattWhew)
 
 # Intro
 
