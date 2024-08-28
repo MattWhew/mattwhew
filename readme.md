@@ -21,6 +21,8 @@ Glad to be able to apply for your project, I really like it, it’s promising an
 
 | Project | Link |
 |----------|--------|
+| Analog | https://explorer.testnet.analog.one/#/validator/an6WenAtT9mYp4Pw2wtM82tkkqy7JKFvqqWhtfYMzTxPyassL |
+| Waku | https://github.com/MattWhew/waku-simulator |
 | Zero Gravity (0G) | [https://explorer.validator247.com/zero-gravity-testnet/staking/0gvaloper1j29nfagcjec3mprkmml9zsmfkvq4ngg6j0rw48](https://explorer.validator247.com/zero-gravity-testnet/staking/0gvaloper1j29nfagcjec3mprkmml9zsmfkvq4ngg6j0rw48) |
 | Bool | [https://medium.com/@MattWhew/deploy-a-validator-node-in-bool-network-b9bcec1c15ea](https://medium.com/@MattWhew/deploy-a-validator-node-in-bool-network-b9bcec1c15ea) |
 | Pryzm | [https://explorer.stavr.tech/Pryzm-Testnet/staking/pryzmvaloper1hl97f9qm39n0m0ge8cj55zx293025qagppmvev](https://explorer.stavr.tech/Pryzm-Testnet/staking/pryzmvaloper1hl97f9qm39n0m0ge8cj55zx293025qagppmvev) |
